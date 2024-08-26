@@ -49,25 +49,37 @@ ANSWER= B) Download Python from the official website
 
 #Which option should you ensure is checked during Python installation on Windows?
 
-A) Install with default settings B) Install to a custom directory C) Add Python to PATH D) Install all available features
+A) Install with default settings 
+B) Install to a custom directory 
+C) Add Python to PATH 
+D) Install all available features
 
 ANSWER= C) Add Python to PATH
 
 #How do you verify Python installation on any system?
 
-A) By running python --version B) By restarting your computer C) By opening the Python installer again D) By checking the Programs and Features in Control Panel
+A) By running python --version 
+B) By restarting your computer 
+C) By opening the Python installer again 
+D) By checking the Programs and Features in Control Panel
 
 ANSWER= A) By running python --version
 
 #What command is used to install pip on macOS and Linux?
 
-A) sudo install pip B) pip install python C) curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py D) python --install pip
+A) sudo install pip 
+B) pip install python 
+C) curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py 
+D) python --install pip
 
 ANSWER= D) python --install pip
 
 #What is the purpose of a virtual environment in Python?
 
-A) To keep your projects organized in one folder B) To install Python in a different directory C) To separate project dependencies and avoid conflicts D) To enhance Python performance on your system
+A) To keep your projects organized in one folder 
+B) To install Python in a different directory 
+C) To separate project dependencies and avoid conflicts 
+D) To enhance Python performance on your system
 
 ANSWER= C) To separate project dependencies and avoid conflicts
 
