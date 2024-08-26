@@ -1,25 +1,38 @@
 #Env_Set
+
 #Environment Setup Assignment
 
 #Dart & Flutter
 
 #What is the first step for installing Dart on a Windows machine?
-A) Install Homebrew B) Download the Dart SDK C) Update your PATH D) Run Dart Doctor
+A) Install Homebrew 
+B) Download the Dart SDK 
+C) Update your PATH 
+D) Run Dart Doctor
 
 ANSWER = B) Download the Dart SDK.
 
 #Which command verifies the Dart installation on macOS?
-A) dart --install B) dart --check C) dart --verify D) dart --version
+A) dart --install 
+B) dart --check 
+C) dart --verify 
+D) dart --version
 
 ANSWER = D) dart --version
 
 #What is the next step after downloading and extracting the Flutter SDK on Linux?
-A) Install Homebrew B) Update your PATH C) Run Flutter Doctor D) Create a new Flutter project
+A) Install Homebrew 
+B) Update your PATH 
+C) Run Flutter Doctor 
+D) Create a new Flutter project
 
 ANSWER= B) Update your PATH
 
 #What command is used to run a newly created Flutter app?
-A) flutter start B) flutter build C) flutter run D) flutter init
+A) flutter start 
+B) flutter build 
+C) flutter run 
+D) flutter init
 
 ANSWER= C) flutter run
 
