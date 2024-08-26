@@ -40,7 +40,10 @@ ANSWER= C) flutter run
 
 #What is the first step to install Python on a Windows system?
 
-A) Run the installer without any customization B) Download Python from the official website C) Open the terminal and type sudo apt install python D) Install pip manually
+A) Run the installer without any customization 
+B) Download Python from the official website 
+C) Open the terminal and type sudo apt install python 
+D) Install pip manually
 
 ANSWER= B) Download Python from the official website
 
